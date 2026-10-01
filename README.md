@@ -7,7 +7,7 @@ The script reads an image with Pillow, adds a new sheet sized to the image, make
 It was written for my talk **"Amaze Your Friends by Painting Images on Google Sheets Using Python"** at PyCon India 2023 in Hyderabad.
 
 - Blog post (full walkthrough): BLOG_POST_URL
-- Slides: https://docs.google.com/presentation/d/1MxHmHFKf3bpcK8ellfRt1naehDsdDjWOglKi91oiiH8/preview
+- Slides (PDF): https://drive.google.com/file/d/17NIxo-QIkDKx-RBlK7R56DHt8upV67Q0/view
 - Proposal: https://in.pycon.org/cfp/pycon-india-2023/proposals/amaze-your-friends-by-painting-images-on-google-sheets-using-python~eER80/
 - Demo video: https://youtu.be/H2J7bXMvqL4
 
